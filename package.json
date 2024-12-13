@@ -2,7 +2,7 @@
   "name": "hax-development-kit",
   "displayName": "Hax Development Kit",
   "description": "Development kit for developing HAX web components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "README.md",
   "icon": "hax-text.png",
   "publisher": "zdodson",
