@@ -10,6 +10,16 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "lit.lit-snippets",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "bierner.lit-html",
+    "runem.lit-plugin",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree"
   ]
 }
