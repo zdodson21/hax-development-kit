@@ -1,17 +1,14 @@
 # hax-development-kit README
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-# hax-development-kit
+## Included Extensions
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+* [Editor Config](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+* [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+* [Lit HTML](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
+* [Lit Plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin)
+* [Lit Snippets](https://marketplace.visualstudio.com/items?itemName=lit.lit-snippets)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)

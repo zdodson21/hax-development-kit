@@ -2,13 +2,20 @@
   "name": "hax-development-kit",
   "displayName": "Hax Development Kit",
   "description": "Development kit for developing HAX web components",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "readme": "README.md",
+  "icon": "hax-text.png",
+  "publisher": "zdodson",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdodson21/hax-development-kit"
+  },
   "extensionPack": [ 
     "aaron-bond.better-comments",
     "usernamehw.errorlens",
@@ -21,5 +28,14 @@
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
     "gruntfuggly.todo-tree"
+  ],
+  "keywords": [
+    "hax",
+    "web component",
+    "hax development kit",
+    "lit",
+    "lit-element",
+    "lit-html",
+    "ddd"
   ]
 }
